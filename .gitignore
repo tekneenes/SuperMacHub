@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager & Xcode Build Artifacts
+.build/
+.swiftpm/
+Build/
+DerivedData/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Python / MLX virtual environments & checkpoints
+__pycache__/
+*.pyc
+.venv/
+venv/
+adapters/
+*.safetensors
+*.gguf
