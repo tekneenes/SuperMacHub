@@ -1,0 +1,77 @@
+SuperMacHub
+Copyright 2026 Muhammed Enes Tekne (https://github.com/tekneenes)
+
+This product includes software developed by Muhammed Enes Tekne and
+incorporates / adapts components from the following open-source projects:
+
+========================================================================
+Third-Party Open-Source Components & Attribution
+========================================================================
+
+1. Eney AI Agent & Notch HUD
+   - Base Projects: PikoChan (neur0map/PikoChan) & tinycast (abue-ammar/tinycast)
+   - Licenses: MIT License / Open Source
+
+2. Accessibility Tree Inspection & Screen Vision
+   - Base Projects: AXorcist (steipete/AXorcist), screen-overlay-toolkit (NivDvir/screen-overlay-toolkit), Lookout (AnthonyDavidAdams/Lookout)
+   - License: MIT License
+
+3. Apple MCP Native Bridge
+   - Base Projects: apple-mcp (AaronRoeF/apple-mcp), mcp-server-apple-events (FradSer/mcp-server-apple-events)
+   - License: MIT License
+
+4. AI File Organizer & Content Classifier
+   - Base Projects: ai-file-sorter (hyperfield/ai-file-sorter), Magika (google/magika)
+   - Licenses: MIT License / Apache License 2.0
+
+5. Nashi File Toolkit
+   - Base Project: nashi-app (orkunisitmak/nashi-app)
+   - License: Open Source
+
+6. System Telemetry & SMC Hardware Engine
+   - Base Project: Stats (exelban/stats)
+   - License: MIT License
+
+7. Mouse Fix & Smooth Scrolling Engine
+   - Base Projects: LinearMouse (linearmouse/linearmouse), Mos (caldis/Mos)
+   - Licenses: MIT License / Open Source
+
+8. Dynamic Island / Interactive Notch Overlay
+   - Base Projects: BoringNotch (TheBoringNotch/boring.notch), PikoChan
+   - License: Open Source
+
+9. Face ID Vision & Screen Security
+   - Base Projects: tryglance, FaceGate
+   - License: Open Source
+
+10. Menu Bar Manager
+    - Base Project: Ice (jordanbaird/Ice)
+    - Licenses: MIT / GPL License
+
+11. Battery Guard & SMC Charging Threshold
+    - Base Projects: BatFi (rurza/BatFi), Stats (exelban/stats)
+    - Licenses: MIT License / Open Source
+
+12. Per-App Audio Mixer
+    - Base Project: FineTune (ronitsingh10/FineTune)
+    - License: Open Source
+
+13. Clipboard Vault & Smart OCR
+    - Base Projects: Maccy (p0deje/Maccy), TRex (amebalabs/TRex)
+    - License: MIT License
+
+14. Window Loop & Tiling Manager
+    - Base Projects: Rectangle (rxhanson/Rectangle), Loop (MrKai77/Loop)
+    - License: MIT License
+
+15. External Display DDC Brightness & Audio Controller
+    - Base Project: MonitorControl (MonitorControl/MonitorControl)
+    - License: MIT License
+
+16. Keep Awake Sleep Prevention
+    - Base Project: KeepingYouAwake (newmarcel/KeepingYouAwake)
+    - License: MIT License
+
+17. Local Voice Dictation
+    - Base Projects: WhisperKit (argmaxinc/WhisperKit), trace (arjunkomath/trace)
+    - License: MIT License
